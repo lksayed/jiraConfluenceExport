@@ -68,13 +68,14 @@ def process_and_export_to_csv(confluence_groups):
             member['last_active_date'] = fetch_last_active_date(member['accountId'])
             # Remove unwanted fields
             member.pop('profilePicture', None)
+            member.pop('type', None)
             all_members.append(member)
 
     confluence_df = pd.DataFrame(all_members)
 
     # Specify the columns to keep
     columns_to_keep = [
-        'type', 'accountId', 'accountType', 'email', 'publicName', 
+        'accountId', 'accountType', 'email', 'publicName', 
         'displayName', 'isExternalCollaborator', 'group', 'last_active_date'
     ]
     confluence_df = confluence_df[columns_to_keep]
