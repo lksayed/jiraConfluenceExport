@@ -1,2 +1,2 @@
-accountId,accountType,emailAddress,displayName,active,timeZone,locale,last_active_date
-6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,True,America/Detroit,en_US,2024-06-17
+accountId,accountType,emailAddress,displayName,active,timeZone,locale,last_active_date,groups,roles
+6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,True,America/Detroit,en_US,2024-06-24,"org-admins, confluence-users-devsayedlk, confluence-admins-devsayedlk, jira-users-devsayedlk",Administrator

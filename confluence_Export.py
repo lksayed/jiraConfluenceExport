@@ -66,6 +66,7 @@ def process_and_export_to_csv(confluence_groups):
         for member in members:
             member['group'] = group_name
             member['last_active_date'] = fetch_last_active_date(member['accountId'])
+            
             # Remove unwanted fields
             member.pop('profilePicture', None)
             member.pop('type', None)
