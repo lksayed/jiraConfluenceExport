@@ -4,7 +4,7 @@ accountId,accountType,email,publicName,displayName,isExternalCollaborator,group,
 5d53f3cbc6b9320d9ea5bdc2,app,,Jira Outlook,Jira Outlook,False,jira-users-devsayedlk,N/A
 557058:950f9f5b-3d6d-4e1d-954a-21367ae9ac75,app,,Jira Service Management Widget,Jira Service Management Widget,False,jira-users-devsayedlk,N/A
 5cf112d31552030f1e3a5905,app,,Jira Spreadsheets,Jira Spreadsheets,False,jira-users-devsayedlk,N/A
-6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,jira-users-devsayedlk,2024-06-17
+6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,jira-users-devsayedlk,2024-06-24
 60e5a86a471e61006a4c51fd,app,,Microsoft Teams for Jira Cloud,Microsoft Teams for Jira Cloud,False,jira-users-devsayedlk,N/A
 63a22fb348b367d78a14c15b,app,,Proforma Migrator,Proforma Migrator,False,jira-users-devsayedlk,N/A
 557058:0867a421-a9ee-4659-801a-bc0ee4a4487e,app,,Slack,Slack,False,jira-users-devsayedlk,N/A
@@ -13,10 +13,10 @@ accountId,accountType,email,publicName,displayName,isExternalCollaborator,group,
 557058:214cdd6a-ff93-4d8b-838b-62dfcf1a2a71,app,,Trello,Trello,False,jira-users-devsayedlk,N/A
 5b70c8b80fd0ac05d389f5e9,app,,Chat Notifications,Chat Notifications,False,confluence-users-devsayedlk,N/A
 557058:cbc04d7b-be84-46eb-90e4-e567aa5332c6,app,,Confluence Analytics (System),Confluence Analytics (System),False,confluence-users-devsayedlk,N/A
-6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,confluence-users-devsayedlk,2024-06-17
+6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,confluence-users-devsayedlk,2024-06-24
 6035864ce2020c0070b5285b,app,,Microsoft Teams for Confluence Cloud,Microsoft Teams for Confluence Cloud,False,confluence-users-devsayedlk,N/A
 5d9afe0010f4800c341a2bba,app,,Opsgenie Incident Timeline,Opsgenie Incident Timeline,False,confluence-users-devsayedlk,N/A
 5d9b2860cd50b80dcea8a5b7,app,,Opsgenie Incident Timeline,Opsgenie Incident Timeline,False,confluence-users-devsayedlk,N/A
 557058:d6b5955a-e193-41e1-b051-79cdb0755d68,app,,Trello,Trello,False,confluence-users-devsayedlk,N/A
-6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,confluence-admins-devsayedlk,2024-06-17
-6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,org-admins,2024-06-17
+6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,confluence-admins-devsayedlk,2024-06-24
+6424e2a8c35660c269bd0175,atlassian,lksay3d@gmail.com,Leia Sayed,Leia Sayed,False,org-admins,2024-06-24
